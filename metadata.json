@@ -1,0 +1,6 @@
+{
+  "name": "RzzInfo",
+  "description": "Pusat informasi resmi voucher Shopee, Lazada, Tokopedia dan kode redeem Free Fire & MLBB dengan tampilan skeuomorphism biru langit.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
